@@ -3,6 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+
 public class TicTacToe implements ActionListener {
     final String VERSION = "1.0";
     JFrame window = new JFrame("Крестики-нолики" + VERSION);
